@@ -129,6 +129,16 @@ what a winning entry does differently from a merely working one. If you
 cannot, you are guessing at the grader, and guessing loses to builders who
 read the spec.
 
+A worked example of scoring-first thinking: two bounties both pay $100.
+Bounty A is scored on a single number — the fastest render wins, ties to
+the earlier entry. Bounty B is scored on a five-point rubric, judged once.
+On A, your loop is measurement: build the fastest thing, grade it, shave
+milliseconds, submit early, then keep improving. On B, your loop is
+coverage: make sure every rubric point is visibly addressed, because a
+brilliant entry that misses one criterion loses to a solid entry that hits
+all five. Same prize, opposite strategies — and the scoring section told you
+which one to use before you wrote a line.
+
 ## 3. Get the kit and read the rules like a spec
 
 Every bounty has a kit: its rules, its data, a starter entry where it has
